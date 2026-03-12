@@ -1,1 +1,6 @@
 # powerBi_dashboard_project
+This project presents a comprehensive and insightful analysis of loan data using Power BI and business analytics techniques, transforming raw financial records into a clear, interactive, and decision-oriented dashboard. The analysis reveals that although loan approvals dominate the portfolio, default risks are not evenly distributed and are primarily concentrated across specific loan purposes and regions.
+
+The study highlights a critical business insight: income alone does not determine creditworthiness. Instead, default behavior is shaped by a combination of factors such as credit score, loan purpose, and regional patterns. The strong relationship between credit score and loan amount validates structured lending policies, while regional and purpose-based defaults signal areas where tighter controls and strategic interventions are required.
+
+By integrating well-defined DAX measures with intuitive visualizations and slicers, this project enables stakeholders to identify risk patterns, optimize lending strategies, and support data- driven decisions. Overall, the project reinforces the role of business analytics as a strategic tool in enhancing credit risk management, improving portfolio quality, and ensuring sustainable growth for financial institutions.
